@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saurabh Sharma 👋</h1>
+<h1 align="center">Hello, Myself Saurabh Sharma 👋</h1>
 
 <p align="center">
   Final Year B.Tech IT Student · AI/ML Specialisation · MSIT Delhi
@@ -129,9 +129,9 @@ and backend integrations using Node.js and MySQL for the UTS platform.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-993&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-993&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saurabh-993&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-993&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
