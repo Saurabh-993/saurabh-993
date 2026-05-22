@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:saurabhsharma090903@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/saurabh-sharma">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/saurabh-sharma-375393336/">💼 LinkedIn</a>
 </p>
 
 ---
@@ -127,11 +127,3 @@ Built Flutter/Dart UI components, data visualisation dashboards,
 and backend integrations using Node.js and MySQL for the UTS platform.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-993&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-993&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
