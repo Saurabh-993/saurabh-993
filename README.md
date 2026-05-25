@@ -85,7 +85,7 @@ Transformer models and conversational AI interfaces.
 
 ### 📊 ATS Analytics Dashboard *(DMRC)*
 > Built during internship at Delhi Metro Railway Corporation.
-> Visualised **16B+ transactions** from a 256GB operational dataset
+> Visualised **66M transactions** from a 256GB operational dataset
 > across revenue, passenger type, and station-to-station flows.
 > Real data is confidential — repo contains schema, methodology,
 > and anonymised sample data.
