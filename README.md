@@ -116,7 +116,7 @@ Transformer models and conversational AI interfaces.
 
 **IT & Data Analyst Intern** · Delhi Metro Railway Corporation (DMRC)
 `Jun 2025 – Jul 2025`
-Analysed 16B+ ATS transactions (256GB dataset), built Power BI 
+Analysed 66M+ ATS transactions (256GB dataset), built Power BI 
 dashboards, and developed Python/SQL automation scripts in a live 
 public infrastructure environment.
 
