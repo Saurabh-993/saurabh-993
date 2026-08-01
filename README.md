@@ -125,9 +125,9 @@ Built responsive UI components, navigation flows, and data-visualisation dashboa
 ---
 
 <p align="center">
-  <img alt="Saurabh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saurabh-993&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Saurabh's GitHub Streak" src="https://streak-stats.demolab.com?user=Saurabh-993&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-993&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="Saurabh's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Saurabh-993&theme=onedark&column=6&no-frame=true" />
 </p>
