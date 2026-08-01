@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="mailto:saurabhsharma090903@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/saurabh-sharma-375393336/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/saurabh-sharma-375393336/">💼 LinkedIn</a> •
+  <a href="https://saurabh-portfolio-website-993.vercel.app/">🌐 Portfolio</a>
 </p>
 
 ---
@@ -26,103 +27,107 @@ Transformer models and conversational AI interfaces.
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Languages & Scripting
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Frontend & UI
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+### Front-End Development
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+### Data, Analytics & Web Compliance
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Web Compliance](https://img.shields.io/badge/Web_Compliance-GDPR%2FCCPA-003399?style=flat&logo=shield&logoColor=white)
+
+### AI, GenAI & Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-74AA9C?style=flat&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat&logo=probot&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logo=huggingface&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-### Data & Automation
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-### Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Finance Manager AI
-> Stock prediction system using an ensemble of LSTM, RNN, GRU and 
-> Transformer models trained on 5 years of historical data.
-> Achieved **0.0006 epoch loss**. Includes a conversational AI 
-> assistant for real-time statistical analysis via FastAPI.
+### 🛡️ CookieGuard — Cookie Compliance Scanner & Consent Manager
+> Automated compliance platform that scans and audits 50+ domains, 
+> detecting cookies and tracking technologies across 4 categories against 100+ tracker signatures. 
+> Features a responsive audit dashboard and configurable consent banner, 
+> cutting audit time to under 2 minutes per domain.
 
-`Python` `TensorFlow` `Keras` `FastAPI` `yFinance` `Transformer` `LSTM`
+`Python` `Playwright` `JavaScript` `HTML5/CSS3` `FastAPI` `Docker`
 
 ---
 
-### 📊 ATS Analytics Dashboard *(DMRC)*
-> Built during internship at Delhi Metro Railway Corporation.
-> Visualised **66M transactions** from a 256GB operational dataset
-> across revenue, passenger type, and station-to-station flows.
-> Real data is confidential — repo contains schema, methodology,
-> and anonymised sample data.
+### 📊 Metro Analytics Dashboard
+> Visualised **66M+ metro transactions** across revenue, passenger type, 
+> and station-to-station flows with interactive KPIs using Power BI and PostgreSQL.
 
 `Power BI` `PostgreSQL` `Python` `SQL`
 
 ---
 
-### 🛒 Grocery Web App
-> Full-stack grocery application with FastAPI backend, optimised 
-> PostgreSQL queries, RESTful APIs and responsive React.js frontend.
+### 🤖 CareerPilot AI — Full-Stack AI Web Platform
+> Full-stack application with a React front-end and REST API backend that 
+> parses resumes, generates ATS match scores against job descriptions, 
+> and surfaces skill gaps with actionable recommendations.
 
-`Python` `FastAPI` `React.js` `PostgreSQL` `Tailwind CSS` `GitHub`
+`React` `Node.js` `Express` `MongoDB` `Python` `LLMs`
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
-- 🏆 **AWS Cloud Practitioner Essentials** — Amazon (Sep 2025, Score: 100%)
-- 🏆 **Data Fundamentals** — IBM SkillsBuild (Jan 2026) · 
-[Verify on Credly](https://www.credly.com/badges/8f448344-f068-41d8-b1ac-bc67e9dfe91f)
-- 📘 **IBM** — Watson Studio, Data Tools & Languages, Data Science in Our World
-- 📘 **Google Analytics for Beginners** — Google Analytics Academy
+- 🏆 **AWS Cloud Practitioner Essentials** — AWS (2025)
+- 🏆 **Agentic AI Certified Foundations Associate** — Oracle (2026)
+- 🏆 **IBM SkillsBuild Data Fundamentals** — IBM (2026) · [Verify on Credly](https://www.credly.com/badges/8f448344-f068-41d8-b1ac-bc67e9dfe91f)
+- 📘 **Google Analytics for Beginners** — Google (2026)
 
 ---
 
 ## 💼 Experience
 
-**IT & Data Analyst Intern** · Delhi Metro Railway Corporation (DMRC)
-`Jun 2025 – Jul 2025`
-Analysed 66M+ ATS transactions (256GB dataset), built Power BI 
-dashboards, and developed Python/SQL automation scripts in a live 
-public infrastructure environment.
+**IT & Data Analyst Intern** · Delhi Metro Railway Corporation (DMRC)  
+`11th Jun 2025 – 30th Jul 2025`  
+Analysed 66M+ transactions (~256GB dataset), built Power BI dashboards tracking revenue, footfall and station-wise KPIs, and automated data extraction with Python/SQL queries.
 
-**Software Intern** · Centre for Railway Information Systems (CRIS)
-`Jul 2024 – Aug 2024`
-Built Flutter/Dart UI components, data visualisation dashboards, 
-and backend integrations using Node.js and MySQL for the UTS platform.
+**Software Intern** · Centre for Railway Information Systems (CRIS)  
+`4th Jul 2024 – 7th Aug 2024`  
+Built responsive UI components, navigation flows, and data-visualisation dashboards for the UTS platform. Implemented Excel/PDF export functionality and integrated backend data using Node.js and MySQL.
 
 ---
+
+<p align="center">
+  <img alt="Saurabh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saurabh-993&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-993&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
