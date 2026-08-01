@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="futPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E9D5FF"/>
+      <stop offset="40%" stop-color="#A855F7"/>
+      <stop offset="80%" stop-color="#6B21A8"/>
+      <stop offset="100%" stop-color="#2E1065"/>
+    </linearGradient>
+
+    <linearGradient id="innerDarkPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E1429"/>
+      <stop offset="100%" stop-color="#0F0916"/>
+    </linearGradient>
+
+    <linearGradient id="purpleLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B21A8"/>
+      <stop offset="50%" stop-color="#E9D5FF"/>
+      <stop offset="100%" stop-color="#6B21A8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Card Frame -->
+  <path d="M 150 12 L 270 36 C 280 140, 275 275, 150 408 C 25 275, 20 140, 30 36 Z" 
+        fill="url(#futPurple)" stroke="#E9D5FF" stroke-width="3" />
+
+  <!-- Inner Dark Panel -->
+  <path d="M 150 22 L 260 44 C 265 140, 260 268, 150 396 C 40 268, 35 140, 40 44 Z" 
+        fill="url(#innerDarkPurple)" stroke="#A855F7" stroke-width="1.5" />
+
+  <!-- Overall Rating & Position -->
+  <text x="65" y="80" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="40" fill="#F0ABFC" text-anchor="middle">99</text>
+  <text x="65" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="14" fill="#C084FC" text-anchor="middle">AI</text>
+
+  <!-- LLM Badge -->
+  <rect x="195" y="65" width="55" height="32" rx="6" fill="#A855F7" stroke="#E9D5FF" stroke-width="1"/>
+  <text x="222.5" y="86" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="12" fill="#0F0916" text-anchor="middle">LLM</text>
+
+  <!-- Divider -->
+  <line x1="50" y1="118" x2="250" y2="118" stroke="url(#purpleLine)" stroke-width="2"/>
+
+  <!-- Player Name & Role -->
+  <text x="150" y="144" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="17" fill="#FFFFFF" text-anchor="middle">SAURABH SHARMA</text>
+  <text x="150" y="164" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="10" fill="#F0ABFC" text-anchor="middle">CAREERPILOT AI · LLM PLATFORM</text>
+
+  <!-- Second Divider -->
+  <line x1="50" y1="180" x2="250" y2="180" stroke="url(#purpleLine)" stroke-width="1.5"/>
+
+  <!-- FUT 6 Stats Grid - Inward Positioned for Shield Curve -->
+  <!-- Row 1 (y=215) -->
+  <text x="78" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#C084FC">ATS</text>
+  <text x="118" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">99</text>
+  <text x="165" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#C084FC">LLM</text>
+  <text x="205" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">98</text>
+
+  <!-- Row 2 (y=250) -->
+  <text x="78" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#C084FC">REC</text>
+  <text x="118" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">97</text>
+  <text x="165" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#C084FC">RCT</text>
+  <text x="205" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">96</text>
+
+  <!-- Row 3 (y=285) -->
+  <text x="78" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#C084FC">NOD</text>
+  <text x="118" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">95</text>
+  <text x="165" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#C084FC">API</text>
+  <text x="205" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">99</text>
+
+  <!-- Center Separator -->
+  <line x1="150" y1="195" x2="150" y2="298" stroke="#A855F7" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- Bottom Stars Section -->
+  <line x1="65" y1="315" x2="235" y2="315" stroke="url(#purpleLine)" stroke-width="1.5"/>
+  <text x="150" y="345" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" fill="#F0ABFC" text-anchor="middle">★ ★ ★ ★ ★</text>
+</svg>

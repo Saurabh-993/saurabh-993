@@ -76,14 +76,14 @@ Hands-on internship experience across two major government infrastructure organi
 
 ---
 
-## 🚀 Featured Projects Style Trial Showcase
+## 🚀 High-Impact Featured Projects (Native FIFA FUT Ultimate Cards)
 
-<!-- TRIAL OPTION 4: Dynamic Language Distribution & Code Breakdown Card -->
+<!-- PROJECT 1: CookieGuard -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>🛡️ <a href="https://github.com/Saurabh-993/CookieGuard">CookieGuard — Compliance Engine ↗</a></h3>
-      <p><b>Style Trial 4: Dynamic Language Breakdown Card</b></p>
+      <p><b>Automated Privacy Audit & Scanner Platform</b></p>
       <ul>
         <li><b>Scans & Audits:</b> 50+ live domains, detecting cookies & tracking scripts across 4 compliance categories.</li>
         <li><b>Speed:</b> Automated scanning via Playwright & FastAPI, cutting audit duration to <b>&lt; 2 minutes per domain</b>.</li>
@@ -91,9 +91,9 @@ Hands-on internship experience across two major government infrastructure organi
       </ul>
       <p><code>Python</code> <code>Playwright</code> <code>JavaScript</code> <code>FastAPI</code> <code>Docker</code></p>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <a href="https://github.com/Saurabh-993/CookieGuard">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-993&repo=CookieGuard&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="CookieGuard Language Breakdown" />
+        <img src="./gitfut_cookieguard.svg" width="200" alt="Saurabh's CookieGuard FIFA FUT Ultimate Team Card" />
       </a>
     </td>
   </tr>
@@ -101,12 +101,12 @@ Hands-on internship experience across two major government infrastructure organi
 
 ---
 
-<!-- TRIAL OPTION 2: High-Contrast Metric Badge Matrix -->
+<!-- PROJECT 2: Metro Analytics Dashboard -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>📊 <a href="https://github.com/Saurabh-993/dmrc-ats-analytics">Metro Analytics Dashboard — DMRC ↗</a></h3>
-      <p><b>Style Trial 2: High-Contrast Metric Badge Matrix</b></p>
+      <p><b>Enterprise Big Data Analytics</b></p>
       <ul>
         <li><b>Data Scale:</b> Visualized <b>66M+ metro transactions</b> across a 256GB operational dataset.</li>
         <li><b>Analytics & KPIs:</b> Built Power BI dashboards tracking revenue, footfall, and station-to-station flows.</li>
@@ -114,24 +114,22 @@ Hands-on internship experience across two major government infrastructure organi
       </ul>
       <p><code>Power BI</code> <code>PostgreSQL</code> <code>Python</code> <code>SQL</code></p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <div align="center">
-        <img src="https://img.shields.io/badge/DATA_SCALE-66M%2B_RECORDS-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/DATASET_SIZE-256_GB_OPERATIONAL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
-        <img src="https://img.shields.io/badge/DASHBOARDS-POWER_BI_KPIs-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      </div>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/Saurabh-993/dmrc-ats-analytics">
+        <img src="./gitfut_card.svg" width="200" alt="Saurabh's DMRC Metro FIFA FUT Ultimate Team Card" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- TRIAL OPTION 3: Minimalist Neon / Cyberpunk Infographic Card -->
+<!-- PROJECT 3: CareerPilot AI -->
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>🤖 <a href="https://github.com/Saurabh-993/Career-Pilot-AI">CareerPilot AI — Full-Stack Platform ↗</a></h3>
-      <p><b>Style Trial 3: Minimalist Cyberpunk / Neon Infographic Card</b></p>
+      <p><b>AI Resume & ATS Match Optimization</b></p>
       <ul>
         <li><b>ATS Engine:</b> Parses resumes & generates ATS match scores against target job descriptions.</li>
         <li><b>Recommendations:</b> Identifies skill gaps and provides actionable skill recommendations via LLMs.</li>
@@ -139,15 +137,10 @@ Hands-on internship experience across two major government infrastructure organi
       </ul>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>LLMs</code></p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <div style="background: #0d1117; border: 2px solid #8E44AD; border-radius: 10px; padding: 15px; text-align: center;">
-        <h3 style="color: #61DAFB; margin: 0; font-family: monospace;">AI RATING: 99/100</h3>
-        <p style="color: #8E44AD; margin: 5px 0;"><b>⚡ ATS MATCH ENGINE</b></p>
-        <hr style="border: 1px dashed #8E44AD;" />
-        <p style="font-size: 12px; margin: 5px 0;"><b>PARSER:</b> Instant Resume Extraction</p>
-        <p style="font-size: 12px; margin: 5px 0;"><b>LLMs:</b> Tailored Skill Gap Recs</p>
-        <p style="font-size: 12px; margin: 5px 0;"><b>STACK:</b> React + Node.js + Python</p>
-      </div>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/Saurabh-993/Career-Pilot-AI">
+        <img src="./gitfut_careerpilot.svg" width="200" alt="Saurabh's CareerPilot AI FIFA FUT Ultimate Team Card" />
+      </a>
     </td>
   </tr>
 </table>

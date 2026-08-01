@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="futTeal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A7F3D0"/>
+      <stop offset="40%" stop-color="#10B981"/>
+      <stop offset="80%" stop-color="#047857"/>
+      <stop offset="100%" stop-color="#022C22"/>
+    </linearGradient>
+
+    <linearGradient id="innerDarkTeal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#11221D"/>
+      <stop offset="100%" stop-color="#06120F"/>
+    </linearGradient>
+
+    <linearGradient id="tealLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#047857"/>
+      <stop offset="50%" stop-color="#A7F3D0"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer Card Frame -->
+  <path d="M 150 12 L 270 36 C 280 140, 275 275, 150 408 C 25 275, 20 140, 30 36 Z" 
+        fill="url(#futTeal)" stroke="#A7F3D0" stroke-width="3" />
+
+  <!-- Inner Dark Panel -->
+  <path d="M 150 22 L 260 44 C 265 140, 260 268, 150 396 C 40 268, 35 140, 40 44 Z" 
+        fill="url(#innerDarkTeal)" stroke="#10B981" stroke-width="1.5" />
+
+  <!-- Overall Rating & Position -->
+  <text x="65" y="80" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="40" fill="#A7F3D0" text-anchor="middle">99</text>
+  <text x="65" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="14" fill="#34D399" text-anchor="middle">AUD</text>
+
+  <!-- PRIV Badge -->
+  <rect x="195" y="65" width="55" height="32" rx="6" fill="#10B981" stroke="#A7F3D0" stroke-width="1"/>
+  <text x="222.5" y="86" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="12" fill="#06120F" text-anchor="middle">PRIV</text>
+
+  <!-- Divider -->
+  <line x1="50" y1="118" x2="250" y2="118" stroke="url(#tealLine)" stroke-width="2"/>
+
+  <!-- Player Name & Role -->
+  <text x="150" y="144" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="17" fill="#FFFFFF" text-anchor="middle">SAURABH SHARMA</text>
+  <text x="150" y="164" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="10" fill="#A7F3D0" text-anchor="middle">COOKIEGUARD · PRIVACY ENGINE</text>
+
+  <!-- Second Divider -->
+  <line x1="50" y1="180" x2="250" y2="180" stroke="url(#tealLine)" stroke-width="1.5"/>
+
+  <!-- FUT 6 Stats Grid - Inward Positioned -->
+  <text x="78" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#34D399">SPD</text>
+  <text x="118" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">99</text>
+  <text x="165" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#34D399">PRV</text>
+  <text x="205" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">98</text>
+
+  <text x="78" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#34D399">DOM</text>
+  <text x="118" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">97</text>
+  <text x="165" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#34D399">API</text>
+  <text x="205" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">96</text>
+
+  <text x="78" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#34D399">AUT</text>
+  <text x="118" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">95</text>
+  <text x="165" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="13" fill="#34D399">SEC</text>
+  <text x="205" y="285" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="15" fill="#FFFFFF">99</text>
+
+  <!-- Center Separator -->
+  <line x1="150" y1="195" x2="150" y2="298" stroke="#10B981" stroke-width="1" stroke-dasharray="3,3"/>
+
+  <!-- Bottom Stars Section -->
+  <line x1="65" y1="315" x2="235" y2="315" stroke="url(#tealLine)" stroke-width="1.5"/>
+  <text x="150" y="345" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" fill="#34D399" text-anchor="middle">★ ★ ★ ★ ★</text>
+</svg>
