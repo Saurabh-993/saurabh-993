@@ -129,5 +129,5 @@ Built responsive UI components, navigation flows, and data-visualisation dashboa
 </p>
 
 <p align="center">
-  <img alt="Saurabh's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Saurabh-993&theme=onedark&column=6&no-frame=true" />
+  <img alt="Saurabh's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-993&theme=tokyonight&hide_border=true" />
 </p>
