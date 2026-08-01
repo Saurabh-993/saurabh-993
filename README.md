@@ -1,7 +1,9 @@
-<h1 align="center">Hello, Myself Saurabh Sharma 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:3178C6,100:61DAFB&height=180&section=header&text=Saurabh%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
-  Final Year B.Tech IT Student · AI/ML Specialisation · MSIT Delhi
+  <b>Software Engineer · Front-End & Full-Stack · AI & Web Compliance</b>
 </p>
 
 <p align="center">
@@ -12,94 +14,133 @@
 
 ---
 
+<h2 align="center">⚡ Engineering Key Performance Indicators</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Scale-66M%2B_Records_Processed-3776AB?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Audit_Speed-%3C_2_min_per_Domain-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Enterprise_UI-UTS_Railway_Ticketing-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Systems-LangChain_%7C_LangGraph_%7C_LLMs-8E44AD?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
-I'm a final year Information Technology student specialising in AI/ML,
-with hands-on internship experience at two government infrastructure 
-organisations — DMRC and CRIS — where I worked on large-scale data 
-systems, analytics dashboards, and full-stack applications in live 
-production environments.
+I'm a **Software Engineer** specializing in Front-End & Full-Stack Development with a strong focus on AI systems, data analytics, and web compliance. 
 
-Currently building projects around stock market prediction using 
-Transformer models and conversational AI interfaces.
+Hands-on internship experience across two major government infrastructure organizations — **Delhi Metro Rail Corporation (DMRC)** and **Centre for Railway Information Systems (CRIS)** — engineering large-scale data analytics pipelines, interactive ticketing dashboards, and production web platforms.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Capabilities & Skills Infographic
 
-### Languages & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### Front-End Development
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat&logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### Data, Analytics & Web Compliance
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Web Compliance](https://img.shields.io/badge/Web_Compliance-GDPR%2FCCPA-003399?style=flat&logo=shield&logoColor=white)
-
-### AI, GenAI & Agentic Systems
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-74AA9C?style=flat&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat&logo=probot&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logo=huggingface&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <!-- Animated Typewriter Skill Infographic Box -->
+        <a href="https://github.com/Saurabh-993">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&height=70&lines=Frontend%3A+React.js+%7C+TypeScript+%7C+JavaScript+%7C+HTML5%2FCSS3;Backend%3A+Node.js+%7C+Express+%7C+FastAPI+%7C+REST+APIs;AI+%26+Agentic%3A+LangChain+%7C+LangGraph+%7C+LLMs+%7C+GenAI;Databases%3A+PostgreSQL+%7C+MySQL+%7C+MongoDB+%7C+SQLite;Data+%26+Privacy%3A+66M%2B+Records+%7C+Power+BI+%7C+GDPR%2FCCPA" alt="Animated Skills Infographic" />
+        </a>
+        <br/><br/>
+        <!-- Grouped Skill Badges Box -->
+        <p><b>⚡ Front-End & Core Languages</b></p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <br/><br/>
+        <p><b>🧠 Backend, AI & Agentic Systems</b></p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge&logo=probot&logoColor=white"/>
+        <br/><br/>
+        <p><b>📊 Databases, DevOps & Analytics</b></p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 High-Impact Featured Projects
 
-### 🛡️ CookieGuard — Cookie Compliance Scanner & Consent Manager
-> Automated compliance platform that scans and audits 50+ domains, 
-> detecting cookies and tracking technologies across 4 categories against 100+ tracker signatures. 
-> Features a responsive audit dashboard and configurable consent banner, 
-> cutting audit time to under 2 minutes per domain.
-
-`Python` `Playwright` `JavaScript` `HTML5/CSS3` `FastAPI` `Docker`
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🛡️ CookieGuard — Cookie Compliance Scanner</h3>
+      <p><b>Automated Compliance & Audit Engine</b></p>
+      <ul>
+        <li><b>Scans & Audits:</b> 50+ live domains, detecting cookies & tracking scripts across 4 compliance categories.</li>
+        <li><b>Performance:</b> Automated scanning via Playwright & FastAPI, cutting audit duration to <b>&lt; 2 minutes per domain</b>.</li>
+        <li><b>UI & Consent:</b> Responsive dashboard with per-domain audit reports and a configurable consent banner.</li>
+      </ul>
+      <p><code>Python</code> <code>Playwright</code> <code>JavaScript</code> <code>FastAPI</code> <code>Docker</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Speed-%3C_2_min_/_domain-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Scope-50%2B_Domains-009688?style=for-the-badge&logo=fastapi&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Privacy-100%2B_Tracker_Sigs-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Metro Analytics Dashboard
-> Visualised **66M+ metro transactions** across revenue, passenger type, 
-> and station-to-station flows with interactive KPIs using Power BI and PostgreSQL.
-
-`Power BI` `PostgreSQL` `Python` `SQL`
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>📊 Metro Analytics Dashboard — DMRC Infrastructure</h3>
+      <p><b>Enterprise Big Data Analytics</b></p>
+      <ul>
+        <li><b>Data Scale:</b> Visualized <b>66M+ metro transactions</b> across a 256GB operational dataset.</li>
+        <li><b>Analytics & KPIs:</b> Built Power BI dashboards tracking revenue, footfall, and station-to-station flows.</li>
+        <li><b>Optimization:</b> Automated data extraction and validation using Python & optimized SQL queries.</li>
+      </ul>
+      <p><code>Power BI</code> <code>PostgreSQL</code> <code>Python</code> <code>SQL</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Volume-66M%2B_Transactions-3776AB?style=for-the-badge&logo=postgresql&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Data_Size-256_GB_Dataset-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/Analytics-Power_BI_KPIs-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤖 CareerPilot AI — Full-Stack AI Web Platform
-> Full-stack application with a React front-end and REST API backend that 
-> parses resumes, generates ATS match scores against job descriptions, 
-> and surfaces skill gaps with actionable recommendations.
-
-`React` `Node.js` `Express` `MongoDB` `Python` `LLMs`
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🤖 CareerPilot AI — Full-Stack AI Web Platform</h3>
+      <p><b>AI Resume & ATS Match Optimization</b></p>
+      <ul>
+        <li><b>ATS Engine:</b> Parses resumes & generates ATS match scores against target job descriptions.</li>
+        <li><b>Recommendations:</b> Identifies skill gaps and provides actionable skill recommendations via LLMs.</li>
+        <li><b>Architecture:</b> React front-end with Node/Express REST API backend and Python AI integration.</li>
+      </ul>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>LLMs</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/AI-LLM_Match_Engine-8E44AD?style=for-the-badge&logo=probot&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/ATS-Resume_Parsing-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/><br/>
+      <img src="https://img.shields.io/badge/Stack-React_%2B_Node_%2B_Python-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -114,20 +155,25 @@ Transformer models and conversational AI interfaces.
 
 ## 💼 Experience
 
-**IT & Data Analyst Intern** · Delhi Metro Railway Corporation (DMRC)  
+**IT & Data Analyst Intern** · *Delhi Metro Railway Corporation (DMRC)*  
 `11th Jun 2025 – 30th Jul 2025`  
 Analysed 66M+ transactions (~256GB dataset), built Power BI dashboards tracking revenue, footfall and station-wise KPIs, and automated data extraction with Python/SQL queries.
 
-**Software Intern** · Centre for Railway Information Systems (CRIS)  
+**Software Intern** · *Centre for Railway Information Systems (CRIS)*  
 `4th Jul 2024 – 7th Aug 2024`  
 Built responsive UI components, navigation flows, and data-visualisation dashboards for the UTS platform. Implemented Excel/PDF export functionality and integrated backend data using Node.js and MySQL.
 
 ---
 
-<p align="center">
-  <img alt="Saurabh's GitHub Streak" src="https://streak-stats.demolab.com?user=Saurabh-993&theme=tokyonight&hide_border=true" />
-</p>
+<h2 align="center">📊 GitHub Activity & Contribution Infographics</h2>
 
-<p align="center">
-  <img alt="Saurabh's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-993&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img alt="Saurabh's GitHub Streak" src="https://streak-stats.demolab.com?user=Saurabh-993&theme=tokyonight&hide_border=true" width="95%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img alt="Saurabh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-993&theme=tokyonight&hide_border=true" width="95%" />
+    </td>
+  </tr>
+</table>
